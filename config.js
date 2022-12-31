@@ -36,12 +36,12 @@ global.swb = 'https://discord.gg/vicenzibot'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '-'
-global.povo = '-'
-global.pgopay = '-'
-global.ppulsa = '-'
-global.ppulsa2 = '-'
-global.psaweria = '-'
+global.pdana = '6281269734000'
+global.povo = '6281269734000'
+global.pgopay = '6281269734000'
+global.ppulsa = '6281269734000'
+global.ppulsa2 = '6281269734000'
+global.psaweria = '6281269734000'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6281269734000'
@@ -103,7 +103,7 @@ global.bear = 'VBkM7rbU'
 
 /*============== WATERMARK ==============*/
 global.wm = 'By VICENZI' //Main Watermark
-global.wm2 = VI'
+global.wm2 = 'VI'
 global.wm3 = 'VICENZI | By AKMAL'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
